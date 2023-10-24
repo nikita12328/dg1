@@ -1,0 +1,30 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <title>{{ title }}</title>
+</head>
+<body>
+<div class="wrapper">
+    <header class="header">
+        <nav>
+            <a href="{% url 'my_app:index' %}">Главная</a>
+            <a href="{% url 'my_app:about' %}">Разработчик</a>
+            <a href="{% url 'my_app:contact' %}">Обратная связь</a>
+        </nav>
+    </header>
+    {% block content %}
+
+    {% endblock %}
+    {% block footer %}
+        <footer class="footer">
+            © 2023 Dev. by Xumpocmb
+        </footer>
+    {% endblock %}
+</div>
+</body>
+</html>
