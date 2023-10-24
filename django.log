@@ -1,0 +1,312 @@
+Watching for file changes with StatReloader
+D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\Project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 13
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 13
+"GET /about/ HTTP/1.1" 200 8
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 13
+"GET / HTTP/1.1" 200 13
+"GET / HTTP/1.1" 200 13
+"GET /about/ HTTP/1.1" 200 8
+"GET /about/ HTTP/1.1" 200 8
+"GET /about/ HTTP/1.1" 200 8
+"GET /about/ HTTP/1.1" 200 8
+D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\Project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\Project\settings.py changed, reloading.
+INFO 2023-10-19 12:02:20,694 autoreload 15568 7656Watching for file changes with StatReloader
+INFO 2023-10-19 12:02:22,477 basehttp 15568 6884"GET / HTTP/1.1" 200 13
+INFO 2023-10-19 12:02:29,145 basehttp 15568 6884"GET / HTTP/1.1" 200 13
+INFO 2023-10-19 12:02:30,864 basehttp 15568 6884"GET / HTTP/1.1" 200 13
+INFO 2023-10-19 12:02:33,117 basehttp 15568 6884"GET /about/ HTTP/1.1" 200 8
+INFO 2023-10-19 12:02:34,424 basehttp 15568 6884"GET /about/ HTTP/1.1" 200 8
+INFO 2023-10-19 12:02:35,236 basehttp 15568 6884"GET /about/ HTTP/1.1" 200 8
+INFO 2023-10-20 12:00:40,899 autoreload 13608 11292Watching for file changes with StatReloader
+INFO 2023-10-20 12:00:48,598 basehttp 13608 1332"GET / HTTP/1.1" 200 2016
+WARNING 2023-10-20 12:00:48,973 log 13608 1332Not Found: /favicon.ico
+WARNING 2023-10-20 12:00:48,974 basehttp 13608 1332"GET /favicon.ico HTTP/1.1" 404 2439
+INFO 2023-10-20 12:00:52,209 basehttp 13608 1332"GET / HTTP/1.1" 200 2016
+INFO 2023-10-20 12:02:59,658 autoreload 7036 2320Watching for file changes with StatReloader
+INFO 2023-10-20 12:03:01,491 views 7036 14040Index Page
+INFO 2023-10-20 12:03:01,495 basehttp 7036 14040"GET / HTTP/1.1" 200 2016
+INFO 2023-10-20 12:03:05,554 views 7036 14040Index Page
+INFO 2023-10-20 12:03:05,555 basehttp 7036 14040"GET / HTTP/1.1" 200 2016
+INFO 2023-10-20 12:03:08,890 views 7036 14040Index Page
+INFO 2023-10-20 12:03:08,890 basehttp 7036 14040"GET / HTTP/1.1" 200 2016
+INFO 2023-10-20 12:03:29,171 autoreload 10444 11048Watching for file changes with StatReloader
+INFO 2023-10-20 12:03:31,028 views 10444 7024
+Index Page
+INFO 2023-10-20 12:03:31,030 basehttp 10444 7024"GET / HTTP/1.1" 200 2016
+INFO 2023-10-20 12:03:32,881 views 10444 7024
+Index Page
+INFO 2023-10-20 12:03:32,882 basehttp 10444 7024"GET / HTTP/1.1" 200 2016
+INFO 2023-10-20 12:12:25,172 autoreload 8644 7772Watching for file changes with StatReloader
+INFO 2023-10-20 12:13:21,090 autoreload 11408 7416Watching for file changes with StatReloader
+INFO 2023-10-20 12:13:23,069 views 11408 10012
+Index Page
+INFO 2023-10-20 12:13:23,073 basehttp 11408 10012"GET / HTTP/1.1" 200 815
+INFO 2023-10-20 12:14:46,430 views 11408 10012
+Index Page
+INFO 2023-10-20 12:14:46,431 basehttp 11408 10012"GET / HTTP/1.1" 200 815
+INFO 2023-10-20 12:16:06,375 autoreload 10248 12060Watching for file changes with StatReloader
+INFO 2023-10-20 12:16:11,525 views 10248 4664
+Index Page
+INFO 2023-10-20 12:16:11,527 basehttp 10248 4664"GET / HTTP/1.1" 200 815
+INFO 2023-10-20 12:16:13,128 views 10248 4664
+Index Page
+INFO 2023-10-20 12:16:13,128 basehttp 10248 4664"GET / HTTP/1.1" 200 815
+INFO 2023-10-20 12:16:17,345 views 10248 4664
+Index Page
+INFO 2023-10-20 12:16:17,346 basehttp 10248 4664"GET / HTTP/1.1" 200 815
+INFO 2023-10-20 12:16:54,037 autoreload 10292 12388Watching for file changes with StatReloader
+INFO 2023-10-20 12:16:55,481 views 10292 1304
+Index Page
+INFO 2023-10-20 12:16:55,588 basehttp 10292 1304"GET / HTTP/1.1" 200 486
+INFO 2023-10-20 12:16:55,643 basehttp 10292 1304"GET /static/css/style.css HTTP/1.1" 200 519
+INFO 2023-10-20 12:17:44,043 autoreload 7196 1580Watching for file changes with StatReloader
+INFO 2023-10-20 12:17:46,994 views 7196 3328
+Index Page
+INFO 2023-10-20 12:17:46,998 basehttp 7196 3328"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:18:14,209 autoreload 1020 3212Watching for file changes with StatReloader
+INFO 2023-10-20 12:18:18,101 views 1020 16260
+Index Page
+INFO 2023-10-20 12:18:18,106 basehttp 1020 16260"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:18:18,121 basehttp 1020 16260"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:18:19,641 views 1020 16260
+Index Page
+INFO 2023-10-20 12:18:19,642 basehttp 1020 16260"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:18:20,639 views 1020 16260
+Index Page
+INFO 2023-10-20 12:18:20,640 basehttp 1020 16260"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:20:17,452 autoreload 1020 3212D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\my_app\urls.py changed, reloading.
+INFO 2023-10-20 12:20:17,931 autoreload 10160 1420Watching for file changes with StatReloader
+INFO 2023-10-20 12:20:28,202 autoreload 9592 2856Watching for file changes with StatReloader
+INFO 2023-10-20 12:20:31,214 views 9592 592
+Index Page
+INFO 2023-10-20 12:20:31,219 basehttp 9592 592"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:20:31,234 basehttp 9592 592"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:20:37,528 views 9592 592
+Index Page
+INFO 2023-10-20 12:20:37,529 basehttp 9592 592"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:20:40,536 views 9592 592
+Index Page
+INFO 2023-10-20 12:20:40,537 basehttp 9592 592"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:21:04,361 autoreload 15260 14776Watching for file changes with StatReloader
+INFO 2023-10-20 12:21:06,048 views 15260 15408
+Index Page
+INFO 2023-10-20 12:21:06,055 basehttp 15260 15408"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:21:09,059 views 15260 15408
+Index Page
+INFO 2023-10-20 12:21:09,060 basehttp 15260 15408"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:21:14,258 views 15260 15408
+Index Page
+INFO 2023-10-20 12:21:14,259 basehttp 15260 15408"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:23:22,486 views 15260 15408
+Index Page
+INFO 2023-10-20 12:23:22,487 basehttp 15260 15408"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:23:22,540 basehttp 15260 15408"GET /static/css/style.css HTTP/1.1" 200 690
+INFO 2023-10-20 12:23:23,554 views 15260 15408
+Index Page
+INFO 2023-10-20 12:23:23,555 basehttp 15260 15408"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:23:23,570 basehttp 15260 15408"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:23:27,729 autoreload 8312 5560Watching for file changes with StatReloader
+INFO 2023-10-20 12:23:29,121 views 8312 5888
+Index Page
+INFO 2023-10-20 12:23:29,127 basehttp 8312 5888"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:23:29,139 basehttp 8312 5888"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:23:30,236 views 8312 5888
+Index Page
+INFO 2023-10-20 12:23:30,237 basehttp 8312 5888"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:23:30,257 basehttp 8312 5888"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:23:35,396 views 8312 5888
+Index Page
+INFO 2023-10-20 12:23:35,396 basehttp 8312 5888"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:23:35,412 basehttp 8312 5888"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:23:45,983 basehttp 8312 5888"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:24:30,189 views 8312 5888
+Index Page
+INFO 2023-10-20 12:24:30,190 basehttp 8312 5888"GET / HTTP/1.1" 200 1330
+INFO 2023-10-20 12:24:30,205 basehttp 8312 5888"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:25:43,258 views 8312 5888
+Index Page
+INFO 2023-10-20 12:25:43,261 basehttp 8312 5888"GET / HTTP/1.1" 200 1367
+INFO 2023-10-20 12:25:43,275 basehttp 8312 5888"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:25:46,534 views 8312 5888
+Index Page
+INFO 2023-10-20 12:25:46,535 basehttp 8312 5888"GET / HTTP/1.1" 200 1367
+INFO 2023-10-20 12:26:43,304 views 8312 5888
+Index Page
+INFO 2023-10-20 12:26:43,305 basehttp 8312 5888"GET / HTTP/1.1" 200 1418
+INFO 2023-10-20 12:26:43,320 basehttp 8312 5888"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:26:44,520 views 8312 5888
+Index Page
+INFO 2023-10-20 12:26:44,521 basehttp 8312 5888"GET / HTTP/1.1" 200 1418
+INFO 2023-10-20 12:26:56,332 views 8312 5888
+Index Page
+INFO 2023-10-20 12:26:56,333 basehttp 8312 5888"GET / HTTP/1.1" 200 1418
+INFO 2023-10-20 12:26:57,583 views 8312 5888
+Index Page
+INFO 2023-10-20 12:26:57,584 basehttp 8312 5888"GET / HTTP/1.1" 200 1418
+INFO 2023-10-20 12:27:25,286 views 8312 5888
+Index Page
+INFO 2023-10-20 12:27:25,287 basehttp 8312 5888"GET / HTTP/1.1" 200 1433
+INFO 2023-10-20 12:27:25,301 basehttp 8312 5888"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:27:27,186 views 8312 5888
+Index Page
+INFO 2023-10-20 12:27:27,187 basehttp 8312 5888"GET / HTTP/1.1" 200 1433
+INFO 2023-10-20 12:27:39,892 views 8312 5888
+Index Page
+INFO 2023-10-20 12:27:39,893 basehttp 8312 5888"GET / HTTP/1.1" 200 1433
+INFO 2023-10-20 12:27:40,854 views 8312 5888
+Index Page
+INFO 2023-10-20 12:27:40,855 basehttp 8312 5888"GET / HTTP/1.1" 200 1433
+INFO 2023-10-20 12:31:03,318 autoreload 14264 13964Watching for file changes with StatReloader
+INFO 2023-10-20 12:31:05,995 views 14264 7216
+Index Page
+INFO 2023-10-20 12:31:06,001 basehttp 14264 7216"GET / HTTP/1.1" 200 1484
+INFO 2023-10-20 12:31:06,057 basehttp 14264 7216"GET /static/css/style.css HTTP/1.1" 200 692
+INFO 2023-10-20 12:31:08,002 views 14264 7216About Page
+ERROR 2023-10-20 12:31:08,230 log 14264 7216Internal Server Error: /about/
+Traceback (most recent call last):
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\my_app\views.py", line 17, in about
+    return render(request, 'my_app/about.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-10-20 12:31:08,237 basehttp 14264 7216"GET /about/ HTTP/1.1" 500 138350
+INFO 2023-10-20 12:32:17,636 autoreload 14796 5104Watching for file changes with StatReloader
+INFO 2023-10-20 12:32:18,565 views 14796 1236About Page
+INFO 2023-10-20 12:32:18,573 basehttp 14796 1236"GET /about/ HTTP/1.1" 200 1027
+INFO 2023-10-20 12:32:18,589 basehttp 14796 1236"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:32:21,208 views 14796 1236About Page
+INFO 2023-10-20 12:32:21,209 basehttp 14796 1236"GET /about/ HTTP/1.1" 200 1027
+INFO 2023-10-20 12:32:22,188 views 14796 1236Contact Page
+INFO 2023-10-20 12:32:22,190 basehttp 14796 1236"GET /contact/ HTTP/1.1" 200 1497
+INFO 2023-10-20 12:32:26,456 views 14796 1236About Page
+INFO 2023-10-20 12:32:26,457 basehttp 14796 1236"GET /about/ HTTP/1.1" 200 1027
+INFO 2023-10-20 12:32:29,657 views 14796 1236
+Index Page
+INFO 2023-10-20 12:32:29,659 basehttp 14796 1236"GET / HTTP/1.1" 200 1484
+INFO 2023-10-20 12:32:30,848 views 14796 1236About Page
+INFO 2023-10-20 12:32:30,849 basehttp 14796 1236"GET /about/ HTTP/1.1" 200 1027
+INFO 2023-10-20 12:34:07,271 autoreload 8872 15556Watching for file changes with StatReloader
+INFO 2023-10-20 12:34:09,129 views 8872 8848About Page
+INFO 2023-10-20 12:34:09,135 basehttp 8872 8848"GET /about/ HTTP/1.1" 200 1027
+INFO 2023-10-20 12:34:09,184 basehttp 8872 8848"GET /static/css/style.css HTTP/1.1" 200 2379
+INFO 2023-10-20 12:34:10,899 views 8872 8848Contact Page
+INFO 2023-10-20 12:34:10,901 basehttp 8872 8848"GET /contact/ HTTP/1.1" 200 1497
+INFO 2023-10-20 12:34:10,917 basehttp 8872 8848"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:34:26,915 views 8872 8848Contact Page
+INFO 2023-10-20 12:34:26,917 basehttp 8872 8848"GET /contact/ HTTP/1.1" 200 1497
+INFO 2023-10-20 12:34:26,934 basehttp 8872 8848"GET /static/css/style.css HTTP/1.1" 200 2379
+INFO 2023-10-20 12:34:44,463 basehttp 8872 8848"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:35:33,615 views 8872 8848Contact Page
+INFO 2023-10-20 12:35:33,617 basehttp 8872 8848"GET /contact/ HTTP/1.1" 200 1497
+INFO 2023-10-20 12:35:33,883 basehttp 8872 8848"GET /static/css/style.css HTTP/1.1" 200 2358
+INFO 2023-10-20 12:35:37,564 autoreload 15292 11744Watching for file changes with StatReloader
+INFO 2023-10-20 12:35:38,835 views 15292 4028Contact Page
+INFO 2023-10-20 12:35:38,842 basehttp 15292 4028"GET /contact/ HTTP/1.1" 200 1497
+INFO 2023-10-20 12:35:38,856 basehttp 15292 4028"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:35:43,207 views 15292 4028About Page
+INFO 2023-10-20 12:35:43,208 basehttp 15292 4028"GET /about/ HTTP/1.1" 200 1027
+INFO 2023-10-20 12:35:43,225 basehttp 15292 4028"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:35:44,419 views 15292 4028Contact Page
+INFO 2023-10-20 12:35:44,421 basehttp 15292 4028"GET /contact/ HTTP/1.1" 200 1497
+INFO 2023-10-20 12:35:44,439 basehttp 15292 4028"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:35:45,269 views 15292 4028About Page
+INFO 2023-10-20 12:35:45,270 basehttp 15292 4028"GET /about/ HTTP/1.1" 200 1027
+INFO 2023-10-20 12:35:45,288 basehttp 15292 4028"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:35:48,077 views 15292 4028
+Index Page
+INFO 2023-10-20 12:35:48,078 basehttp 15292 4028"GET / HTTP/1.1" 200 1484
+INFO 2023-10-20 12:35:48,093 basehttp 15292 4028"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:36:11,918 autoreload 13388 7848Watching for file changes with StatReloader
+INFO 2023-10-20 12:36:13,293 views 13388 5572
+Index Page
+INFO 2023-10-20 12:36:13,298 basehttp 13388 5572"GET / HTTP/1.1" 200 1485
+INFO 2023-10-20 12:36:13,311 basehttp 13388 5572"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:36:37,540 autoreload 9340 11172Watching for file changes with StatReloader
+INFO 2023-10-20 12:37:54,305 autoreload 11948 11152Watching for file changes with StatReloader
+INFO 2023-10-20 12:37:56,118 views 11948 6388
+Index Page
+INFO 2023-10-20 12:37:56,125 basehttp 11948 6388"GET / HTTP/1.1" 200 1493
+INFO 2023-10-20 12:37:56,140 basehttp 11948 6388"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:38:29,371 views 11948 6388
+Index Page
+INFO 2023-10-20 12:38:29,373 basehttp 11948 6388"GET / HTTP/1.1" 200 1493
+INFO 2023-10-20 12:38:29,390 basehttp 11948 6388"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-10-20 12:38:29,807 autoreload 11948 11152D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\my_app\views.py changed, reloading.
+INFO 2023-10-20 12:38:30,262 autoreload 10052 11832Watching for file changes with StatReloader
+INFO 2023-10-20 12:38:30,986 views 10052 4188About Page
+INFO 2023-10-20 12:38:30,992 basehttp 10052 4188"GET /about/ HTTP/1.1" 200 1036
+INFO 2023-10-20 12:38:32,212 views 10052 4188
+Index Page
+INFO 2023-10-20 12:38:32,214 basehttp 10052 4188"GET / HTTP/1.1" 200 1493
+INFO 2023-10-20 12:38:33,247 views 10052 4188Contact Page
+INFO 2023-10-20 12:38:33,249 basehttp 10052 4188"GET /contact/ HTTP/1.1" 200 1506
+INFO 2023-10-20 12:38:34,296 views 10052 4188About Page
+INFO 2023-10-20 12:38:34,297 basehttp 10052 4188"GET /about/ HTTP/1.1" 200 1036
+INFO 2023-10-20 12:38:35,239 views 10052 4188
+Index Page
+INFO 2023-10-20 12:38:35,241 basehttp 10052 4188"GET / HTTP/1.1" 200 1493
+INFO 2023-10-20 12:38:36,036 views 10052 4188About Page
+INFO 2023-10-20 12:38:36,038 basehttp 10052 4188"GET /about/ HTTP/1.1" 200 1036
+INFO 2023-10-20 12:38:37,029 views 10052 4188Contact Page
+INFO 2023-10-20 12:38:37,030 basehttp 10052 4188"GET /contact/ HTTP/1.1" 200 1506
+INFO 2023-10-20 12:38:39,713 views 10052 4188About Page
+INFO 2023-10-20 12:38:39,714 basehttp 10052 4188"GET /about/ HTTP/1.1" 200 1036
+INFO 2023-10-20 12:38:41,144 views 10052 4188
+Index Page
+INFO 2023-10-20 12:38:41,145 basehttp 10052 4188"GET / HTTP/1.1" 200 1493
