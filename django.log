@@ -310,3 +310,156 @@ INFO 2023-10-20 12:38:39,714 basehttp 10052 4188"GET /about/ HTTP/1.1" 200 1036
 INFO 2023-10-20 12:38:41,144 views 10052 4188
 Index Page
 INFO 2023-10-20 12:38:41,145 basehttp 10052 4188"GET / HTTP/1.1" 200 1493
+INFO 2023-10-26 08:39:12,206 autoreload 10364 5244Watching for file changes with StatReloader
+INFO 2023-10-26 09:31:31,408 autoreload 1672 588Watching for file changes with StatReloader
+INFO 2023-10-26 09:31:33,749 views 1672 15556
+Index Page
+INFO 2023-10-26 09:31:33,807 basehttp 1672 15556"GET / HTTP/1.1" 200 1493
+INFO 2023-10-26 09:31:33,840 basehttp 1672 15556"GET /static/css/style.css HTTP/1.1" 304 0
+WARNING 2023-10-26 09:31:34,162 log 1672 15556Not Found: /favicon.ico
+WARNING 2023-10-26 09:31:34,163 basehttp 1672 15556"GET /favicon.ico HTTP/1.1" 404 2889
+WARNING 2023-10-26 09:31:41,044 log 1672 15556Not Found: /app3
+WARNING 2023-10-26 09:31:41,044 basehttp 1672 15556"GET /app3 HTTP/1.1" 404 2868
+INFO 2023-10-26 09:31:47,498 basehttp 1672 15556"GET /app3/hello HTTP/1.1" 301 0
+INFO 2023-10-26 09:31:47,502 basehttp 1672 11368"GET /app3/hello/ HTTP/1.1" 200 23
+INFO 2023-10-26 09:35:39,248 autoreload 1672 588D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp3\views.py changed, reloading.
+INFO 2023-10-26 09:35:39,741 autoreload 1312 5728Watching for file changes with StatReloader
+INFO 2023-10-26 09:38:35,611 autoreload 3820 7860Watching for file changes with StatReloader
+INFO 2023-10-26 09:38:37,936 views 3820 2396
+Index Page
+INFO 2023-10-26 09:38:37,945 basehttp 3820 2396"GET / HTTP/1.1" 200 1493
+INFO 2023-10-26 09:38:44,631 basehttp 3820 2396"GET /app3/posts/2022/6/python/ HTTP/1.1" 200 360
+INFO 2023-10-26 09:43:29,183 autoreload 3432 7728Watching for file changes with StatReloader
+INFO 2023-10-26 09:43:33,492 views 3432 13120
+Index Page
+INFO 2023-10-26 09:43:33,502 basehttp 3432 13120"GET / HTTP/1.1" 200 1493
+INFO 2023-10-26 09:43:41,208 basehttp 3432 13120"GET /app3/temp_if HTTP/1.1" 301 0
+INFO 2023-10-26 09:43:41,239 basehttp 3432 2336"GET /app3/temp_if/ HTTP/1.1" 200 172
+INFO 2023-10-26 09:45:43,434 autoreload 15404 2520Watching for file changes with StatReloader
+WARNING 2023-10-26 09:45:50,221 log 15404 596Not Found: /app3/temp_for
+WARNING 2023-10-26 09:45:50,221 basehttp 15404 596"GET /app3/temp_for HTTP/1.1" 404 3775
+INFO 2023-10-26 09:46:07,670 autoreload 15884 16348Watching for file changes with StatReloader
+INFO 2023-10-26 09:46:09,789 basehttp 15884 8784"GET /app3/temp_for HTTP/1.1" 301 0
+INFO 2023-10-26 09:46:09,796 basehttp 15884 9448"GET /app3/temp_for/ HTTP/1.1" 200 180
+INFO 2023-10-26 09:46:16,677 basehttp 15884 9448"GET /app3/temp_for/ HTTP/1.1" 200 180
+INFO 2023-10-26 09:47:04,132 autoreload 11528 12512Watching for file changes with StatReloader
+INFO 2023-10-26 09:47:05,516 basehttp 11528 13352"GET /app3/temp_for/ HTTP/1.1" 200 559
+INFO 2023-10-26 09:57:33,450 autoreload 6408 3496Watching for file changes with StatReloader
+INFO 2023-10-26 09:57:35,106 basehttp 6408 904"GET /app3/temp_for/ HTTP/1.1" 200 626
+INFO 2023-10-26 09:58:00,336 autoreload 11260 7044Watching for file changes with StatReloader
+INFO 2023-10-26 09:58:01,190 basehttp 11260 10312"GET /app3/temp_for/ HTTP/1.1" 200 1754
+INFO 2023-10-26 09:58:29,846 basehttp 11260 10312"GET /app3/temp_for/ HTTP/1.1" 200 1754
+INFO 2023-10-26 09:58:32,496 autoreload 14936 10164Watching for file changes with StatReloader
+INFO 2023-10-26 09:58:34,244 basehttp 14936 2704"GET /app3/temp_for/ HTTP/1.1" 200 1763
+INFO 2023-10-26 10:00:15,353 autoreload 14936 10164D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp3\models.py changed, reloading.
+INFO 2023-10-26 10:00:15,822 autoreload 10384 11888Watching for file changes with StatReloader
+INFO 2023-10-26 10:12:08,072 autoreload 11592 15480Watching for file changes with StatReloader
+INFO 2023-10-26 10:12:11,629 views 11592 10076
+Index Page
+INFO 2023-10-26 10:12:11,637 basehttp 11592 10076"GET / HTTP/1.1" 200 1493
+INFO 2023-10-26 10:12:26,602 basehttp 11592 10076"GET /app3/author/2 HTTP/1.1" 301 0
+INFO 2023-10-26 10:12:26,610 basehttp 11592 6880"GET /app3/author/2/ HTTP/1.1" 200 122
+INFO 2023-10-26 10:12:32,082 basehttp 11592 6880"GET /app3/author/1 HTTP/1.1" 301 0
+INFO 2023-10-26 10:12:32,088 basehttp 11592 11260"GET /app3/author/1/ HTTP/1.1" 200 122
+INFO 2023-10-26 10:12:36,006 basehttp 11592 11260"GET /app3/author/3 HTTP/1.1" 301 0
+INFO 2023-10-26 10:12:36,014 basehttp 11592 11328"GET /app3/author/3/ HTTP/1.1" 200 122
+INFO 2023-10-26 10:12:44,183 basehttp 11592 11328"GET /app3/post/1 HTTP/1.1" 301 0
+INFO 2023-10-26 10:12:44,190 basehttp 11592 8840"GET /app3/post/1/ HTTP/1.1" 200 510
+INFO 2023-10-26 10:13:24,437 autoreload 3652 8804Watching for file changes with StatReloader
+INFO 2023-10-26 10:13:33,546 basehttp 3652 10288"GET /app3/author/7/ HTTP/1.1" 200 752
+INFO 2023-10-26 10:13:37,451 basehttp 3652 10288"GET /app3/post/5/ HTTP/1.1" 200 556
+INFO 2023-10-31 11:26:52,143 autoreload 4728 9236Watching for file changes with StatReloader
+INFO 2023-10-31 11:26:54,012 views 4728 2788
+Index Page
+INFO 2023-10-31 11:26:54,121 basehttp 4728 2788"GET / HTTP/1.1" 200 1493
+INFO 2023-10-31 11:26:54,150 basehttp 4728 2788"GET /static/css/style.css HTTP/1.1" 304 0
+WARNING 2023-10-31 11:26:54,421 log 4728 2788Not Found: /favicon.ico
+WARNING 2023-10-31 11:26:54,421 basehttp 4728 2788"GET /favicon.ico HTTP/1.1" 404 2889
+WARNING 2023-10-31 11:28:00,138 log 4728 2788Not Found: /app3/posts
+WARNING 2023-10-31 11:28:00,138 basehttp 4728 2788"GET /app3/posts HTTP/1.1" 404 4341
+INFO 2023-10-31 11:28:11,285 basehttp 4728 2788"GET /app3/temp_for/ HTTP/1.1" 200 1763
+INFO 2023-10-31 11:28:30,153 basehttp 4728 2788"GET /app3/posts/2023 HTTP/1.1" 301 0
+INFO 2023-10-31 11:28:30,157 basehttp 4728 7892"GET /app3/posts/2023/ HTTP/1.1" 200 19
+INFO 2023-10-31 11:28:35,622 basehttp 4728 7892"GET /app3/posts/2022/ HTTP/1.1" 200 19
+INFO 2023-10-31 11:48:06,469 autoreload 5696 13392Watching for file changes with StatReloader
+INFO 2023-10-31 12:00:43,605 autoreload 6148 6168Watching for file changes with StatReloader
+INFO 2023-10-31 12:01:19,359 autoreload 7156 3108Watching for file changes with StatReloader
+INFO 2023-10-31 12:01:22,718 views 7156 12324
+Index Page
+INFO 2023-10-31 12:01:22,730 basehttp 7156 12324"GET / HTTP/1.1" 200 1493
+INFO 2023-10-31 12:01:37,090 basehttp 7156 12324"GET /app2/get_orders_by_user/2 HTTP/1.1" 301 0
+INFO 2023-10-31 12:01:37,098 basehttp 7156 13560"GET /app2/get_orders_by_user/2/ HTTP/1.1" 200 759
+INFO 2023-10-31 12:03:01,711 autoreload 12148 7052Watching for file changes with StatReloader
+INFO 2023-10-31 12:03:03,420 basehttp 12148 6100"GET /app2/get_orders_by_user/2/ HTTP/1.1" 200 1446
+INFO 2023-10-31 12:03:17,209 autoreload 11408 14996Watching for file changes with StatReloader
+INFO 2023-10-31 12:03:18,317 basehttp 11408 12448"GET /app2/get_orders_by_user/2/ HTTP/1.1" 200 1531
+INFO 2023-10-31 12:03:32,929 autoreload 11476 16080Watching for file changes with StatReloader
+INFO 2023-10-31 12:03:34,373 basehttp 11476 16176"GET /app2/get_orders_by_user/2/ HTTP/1.1" 200 1601
+INFO 2023-10-31 12:03:36,407 basehttp 11476 16176"GET /app2/get_orders_by_user/2/ HTTP/1.1" 200 1601
+INFO 2023-10-31 12:03:46,539 autoreload 4300 6760Watching for file changes with StatReloader
+INFO 2023-10-31 12:03:47,627 basehttp 4300 752"GET /app2/get_orders_by_user/2/ HTTP/1.1" 200 1591
+INFO 2023-10-31 12:04:26,727 autoreload 2488 2384Watching for file changes with StatReloader
+INFO 2023-10-31 12:04:27,632 basehttp 2488 5348"GET /app2/get_orders_by_user/2/ HTTP/1.1" 200 1936
+INFO 2023-10-31 12:06:21,970 autoreload 15140 8032Watching for file changes with StatReloader
+INFO 2023-10-31 12:06:35,774 basehttp 15140 6612"GET /app2/get_orders_about_week HTTP/1.1" 301 0
+INFO 2023-10-31 12:06:35,793 basehttp 15140 13580"GET /app2/get_orders_about_week/ HTTP/1.1" 200 626
+INFO 2023-10-31 12:06:46,027 autoreload 2152 14308Watching for file changes with StatReloader
+INFO 2023-10-31 12:06:47,128 basehttp 2152 752"GET /app2/get_orders_about_week/ HTTP/1.1" 200 626
+INFO 2023-10-31 12:06:49,442 basehttp 2152 752"GET /app2/get_orders_about_week/ HTTP/1.1" 200 626
+INFO 2023-10-31 12:07:48,033 autoreload 1320 9116Watching for file changes with StatReloader
+INFO 2023-10-31 12:07:51,473 basehttp 1320 7836"GET /app2/get_orders_last_7_days HTTP/1.1" 301 0
+INFO 2023-10-31 12:07:51,612 basehttp 1320 9792"GET /app2/get_orders_last_7_days/ HTTP/1.1" 200 7131
+INFO 2023-10-31 12:10:16,322 autoreload 6760 9580Watching for file changes with StatReloader
+INFO 2023-10-31 12:10:24,917 basehttp 6760 5264"GET /app2/get_orders_last_year HTTP/1.1" 301 0
+INFO 2023-10-31 12:10:24,953 basehttp 6760 7644"GET /app2/get_orders_last_year/ HTTP/1.1" 200 7131
+INFO 2023-10-31 12:10:32,431 basehttp 6760 7644"GET /app2/get_orders_last_year/ HTTP/1.1" 200 7131
+INFO 2023-10-31 12:10:33,501 basehttp 6760 7644"GET /app2/get_orders_last_year/ HTTP/1.1" 200 7131
+INFO 2023-10-31 12:10:45,534 basehttp 6760 7644"GET /app2/get_orders_last_30_days HTTP/1.1" 301 0
+INFO 2023-10-31 12:10:45,557 basehttp 6760 6260"GET /app2/get_orders_last_30_days/ HTTP/1.1" 200 7131
+INFO 2023-10-31 12:12:56,052 autoreload 6760 9580D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp2\views.py changed, reloading.
+INFO 2023-10-31 12:12:56,560 autoreload 12696 9464Watching for file changes with StatReloader
+INFO 2023-10-31 12:13:13,538 autoreload 12252 7216Watching for file changes with StatReloader
+INFO 2023-10-31 12:13:17,592 basehttp 12252 11860"GET /app2/get_orders_last_30_days/ HTTP/1.1" 200 7131
+INFO 2023-10-31 12:13:31,180 basehttp 12252 11860"GET /app2/get_orders_last_year/ HTTP/1.1" 200 7131
+INFO 2023-10-31 12:16:43,083 basehttp 12252 11860"GET /app2/get_orders_last_year/ HTTP/1.1" 200 3756
+INFO 2023-10-31 12:16:48,607 basehttp 12252 11860"GET /app2/get_orders_last_year/ HTTP/1.1" 200 3756
+INFO 2023-10-31 12:16:49,607 basehttp 12252 11860"GET /app2/get_orders_last_year/ HTTP/1.1" 200 3756
+INFO 2023-10-31 12:17:16,726 basehttp 12252 11860"GET /app2/get_orders_last_7_days/ HTTP/1.1" 200 3756
+INFO 2023-10-31 12:17:26,191 basehttp 12252 11860"GET /app2/get_orders_last_7_days/ HTTP/1.1" 200 3756
+INFO 2023-10-31 12:17:45,831 autoreload 11648 7584Watching for file changes with StatReloader
+INFO 2023-10-31 12:17:46,908 basehttp 11648 2996"GET /app2/get_orders_last_7_days/ HTTP/1.1" 200 3756
+INFO 2023-10-31 12:17:49,284 basehttp 11648 2996"GET /app2/get_orders_last_7_days/ HTTP/1.1" 200 3756
+INFO 2023-10-31 12:18:29,536 basehttp 11648 2996"GET /app2/get_orders_by_user/2/ HTTP/1.1" 200 1916
+INFO 2023-10-31 12:18:39,422 basehttp 11648 2996"GET /app2/get_orders_by_user/3 HTTP/1.1" 301 0
+INFO 2023-10-31 12:18:39,432 basehttp 11648 7396"GET /app2/get_orders_by_user/3/ HTTP/1.1" 200 1836
+INFO 2023-10-31 12:19:10,601 basehttp 11648 7396"GET /app2/get_orders_by_user/3/ HTTP/1.1" 200 1916
+INFO 2023-10-31 12:19:30,152 basehttp 11648 7396"GET /app2/get_orders_by_user/3/ HTTP/1.1" 200 1916
+INFO 2023-10-31 12:19:49,412 basehttp 11648 7396"GET /app2/get_orders_by_user/3/ HTTP/1.1" 200 1896
+INFO 2023-10-31 12:20:37,874 basehttp 11648 7396"GET /app2/get_orders_by_user/3/ HTTP/1.1" 200 1896
+INFO 2023-10-31 12:20:38,894 basehttp 11648 7396"GET /app2/get_orders_by_user/3/ HTTP/1.1" 200 1896
+INFO 2023-10-31 12:22:52,260 basehttp 11648 7396"GET /app2/get_orders_by_user/3/ HTTP/1.1" 200 1916
+INFO 2023-10-31 12:23:05,518 basehttp 11648 7396"GET /app2/get_orders_by_user/2/ HTTP/1.1" 200 1936
+INFO 2023-10-31 12:23:27,052 basehttp 11648 7396"GET /app2/get_orders_last_7_days/ HTTP/1.1" 200 4526
+INFO 2023-10-31 12:24:48,078 basehttp 11648 7396"GET /app2/get_orders_last_7_days/ HTTP/1.1" 200 3488
+INFO 2023-10-31 12:25:06,517 basehttp 11648 7396"GET /app2/get_orders_last_7_days/ HTTP/1.1" 200 3488
+INFO 2023-10-31 12:25:47,894 autoreload 12160 1160Watching for file changes with StatReloader
+INFO 2023-10-31 12:25:49,026 basehttp 12160 15380"GET /app2/get_orders_last_7_days/ HTTP/1.1" 200 3488
+INFO 2023-10-31 12:26:13,143 basehttp 12160 15380"GET /app2/get_orders_last_30_days/ HTTP/1.1" 200 5306
+INFO 2023-10-31 12:28:54,708 autoreload 12160 1160D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp2\urls.py changed, reloading.
+INFO 2023-10-31 12:28:55,246 autoreload 12428 7960Watching for file changes with StatReloader
+INFO 2023-10-31 12:28:59,516 basehttp 12428 16300"GET /app2/get_orders_last_7_days/2 HTTP/1.1" 301 0
+INFO 2023-10-31 12:28:59,540 basehttp 12428 12384"GET /app2/get_orders_last_7_days/2/ HTTP/1.1" 200 1412
+INFO 2023-10-31 12:29:21,751 autoreload 12428 7960D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp2\urls.py changed, reloading.
+INFO 2023-10-31 12:29:22,294 autoreload 1340 7104Watching for file changes with StatReloader
+INFO 2023-10-31 12:37:19,666 basehttp 1340 1684"GET /app2/get_orders_last_7_days/4 HTTP/1.1" 301 0
+INFO 2023-10-31 12:37:19,689 basehttp 1340 11904"GET /app2/get_orders_last_7_days/4/ HTTP/1.1" 200 888
+INFO 2023-10-31 12:37:23,212 basehttp 1340 11904"GET /app2/get_orders_last_7_days/3 HTTP/1.1" 301 0
+INFO 2023-10-31 12:37:23,220 basehttp 1340 12496"GET /app2/get_orders_last_7_days/3/ HTTP/1.1" 200 1142
+INFO 2023-10-31 12:37:27,779 basehttp 1340 12496"GET /app2/get_orders_last_7_days/5 HTTP/1.1" 301 0
+INFO 2023-10-31 12:37:27,788 basehttp 1340 16060"GET /app2/get_orders_last_7_days/5/ HTTP/1.1" 200 1144
+INFO 2023-10-31 12:37:33,231 basehttp 1340 16060"GET /app2/get_orders_last_7_days/2/ HTTP/1.1" 200 1412
+INFO 2023-10-31 12:38:09,548 autoreload 3184 6256Watching for file changes with StatReloader
+INFO 2023-10-31 12:38:10,528 basehttp 3184 14488"GET /app2/get_orders_last_7_days/2/ HTTP/1.1" 200 1412
+INFO 2023-10-31 12:38:24,408 autoreload 3184 6256D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp2\views.py changed, reloading.
+INFO 2023-10-31 12:38:24,871 autoreload 3780 5972Watching for file changes with StatReloader
+INFO 2023-10-31 12:38:27,471 basehttp 3780 14840"GET /app2/get_orders_last_30_days/2/ HTTP/1.1" 200 1674
