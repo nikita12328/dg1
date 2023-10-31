@@ -1,0 +1,13 @@
+{% extends 'my_app/base.html' %}
+
+{% block content %}
+    {% for order in orders %}
+        <div class="text-center">
+            <p>{{ order.customer }}</p>
+            <p>{{ order.products }}</p>
+            <p>{{ order.total_price }}</p>
+            <p>{{ order.date_ordered }}</p>
+            <hr width="90%">
+        </div>
+    {% endfor %}
+{% endblock %}
