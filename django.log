@@ -463,3 +463,319 @@ INFO 2023-10-31 12:38:10,528 basehttp 3184 14488"GET /app2/get_orders_last_7_day
 INFO 2023-10-31 12:38:24,408 autoreload 3184 6256D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp2\views.py changed, reloading.
 INFO 2023-10-31 12:38:24,871 autoreload 3780 5972Watching for file changes with StatReloader
 INFO 2023-10-31 12:38:27,471 basehttp 3780 14840"GET /app2/get_orders_last_30_days/2/ HTTP/1.1" 200 1674
+INFO 2023-11-13 08:36:41,143 autoreload 13676 6684Watching for file changes with StatReloader
+WARNING 2023-11-13 08:36:49,897 log 13676 13200Not Found: /les4/user/add/
+WARNING 2023-11-13 08:36:49,898 basehttp 13676 13200"GET /les4/user/add/ HTTP/1.1" 404 3108
+WARNING 2023-11-13 08:36:50,078 log 13676 13200Not Found: /favicon.ico
+WARNING 2023-11-13 08:36:50,078 basehttp 13676 13200"GET /favicon.ico HTTP/1.1" 404 3099
+ERROR 2023-11-13 08:36:56,514 log 13676 13200Internal Server Error: /app4/user/add/
+Traceback (most recent call last):
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp4\views.py", line 14, in user_form
+    if form.is_valid():
+       ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+ERROR 2023-11-13 08:36:56,516 basehttp 13676 13200"GET /app4/user/add/ HTTP/1.1" 500 72446
+INFO 2023-11-13 08:40:28,391 autoreload 6572 10740Watching for file changes with StatReloader
+ERROR 2023-11-13 08:40:30,339 log 6572 9424Internal Server Error: /app4/user/add/
+Traceback (most recent call last):
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp4\views.py", line 14, in user_form
+    if form.is_valid():
+       ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+ERROR 2023-11-13 08:40:30,340 basehttp 6572 9424"GET /app4/user/add/ HTTP/1.1" 500 72583
+ERROR 2023-11-13 08:41:39,417 log 6572 9424Internal Server Error: /app4/user/add/
+Traceback (most recent call last):
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp4\views.py", line 14, in user_form
+    if form.is_valid():
+       ^^^^
+UnboundLocalError: cannot access local variable 'form' where it is not associated with a value
+ERROR 2023-11-13 08:41:39,418 basehttp 6572 9424"GET /app4/user/add/ HTTP/1.1" 500 72583
+INFO 2023-11-13 08:42:00,475 autoreload 8932 4744Watching for file changes with StatReloader
+INFO 2023-11-13 08:42:02,049 basehttp 8932 5876"GET /app4/user/add/ HTTP/1.1" 200 1178
+INFO 2023-11-13 08:42:02,064 basehttp 8932 5876"GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-11-13 08:42:48,065 autoreload 12760 10448Watching for file changes with StatReloader
+INFO 2023-11-13 08:45:03,481 autoreload 12760 10448D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp4\forms.py changed, reloading.
+INFO 2023-11-13 08:45:04,018 autoreload 9980 12680Watching for file changes with StatReloader
+INFO 2023-11-13 08:49:26,270 autoreload 2032 14224Watching for file changes with StatReloader
+WARNING 2023-11-13 08:49:28,538 log 2032 6908Not Found: /les4/user/
+WARNING 2023-11-13 08:49:28,539 basehttp 2032 6908"GET /les4/user/ HTTP/1.1" 404 3096
+INFO 2023-11-13 08:49:34,906 basehttp 2032 6908"GET /app4/user/ HTTP/1.1" 200 1402
+INFO 2023-11-13 08:50:05,229 autoreload 2032 14224D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp4\forms.py changed, reloading.
+INFO 2023-11-13 08:50:05,718 autoreload 13416 2972Watching for file changes with StatReloader
+INFO 2023-11-13 08:50:34,051 autoreload 13416 2972D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\Project\settings.py changed, reloading.
+INFO 2023-11-13 08:50:34,502 autoreload 13228 5672Watching for file changes with StatReloader
+INFO 2023-11-13 08:50:45,141 autoreload 13228 5672D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp4\views.py changed, reloading.
+INFO 2023-11-13 08:50:45,621 autoreload 4752 13848Watching for file changes with StatReloader
+INFO 2023-11-13 08:51:15,889 autoreload 4752 13848D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp4\views.py changed, reloading.
+INFO 2023-11-13 08:51:16,366 autoreload 10264 6232Watching for file changes with StatReloader
+INFO 2023-11-13 08:51:33,246 autoreload 10264 6232D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp4\urls.py changed, reloading.
+INFO 2023-11-13 08:51:33,696 autoreload 11368 8060Watching for file changes with StatReloader
+INFO 2023-11-19 10:11:03,374 autoreload 7056 11392Watching for file changes with StatReloader
+INFO 2023-11-19 10:11:05,176 views 7056 6356
+Index Page
+INFO 2023-11-19 10:11:05,198 basehttp 7056 6356"GET / HTTP/1.1" 200 1493
+INFO 2023-11-19 10:11:05,220 basehttp 7056 6356"GET /static/css/style.css HTTP/1.1" 304 0
+WARNING 2023-11-19 10:11:05,508 log 7056 6356Not Found: /favicon.ico
+WARNING 2023-11-19 10:11:05,508 basehttp 7056 6356"GET /favicon.ico HTTP/1.1" 404 3099
+WARNING 2023-11-19 10:11:20,632 log 7056 6356Not Found: /myapp2/create_product
+WARNING 2023-11-19 10:11:20,632 basehttp 7056 6356"GET /myapp2/create_product HTTP/1.1" 404 3129
+INFO 2023-11-19 10:11:33,449 basehttp 7056 6356"GET /app2/create_product HTTP/1.1" 301 0
+INFO 2023-11-19 10:11:33,466 basehttp 7056 7836"GET /app2/create_product/ HTTP/1.1" 200 1513
+ERROR 2023-11-19 10:11:56,614 log 7056 7836Internal Server Error: /app2/create_product/
+Traceback (most recent call last):
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp2\views.py", line 39, in create_product
+    form.save()
+    ^^^^^^^^^
+AttributeError: 'ProductForm' object has no attribute 'save'
+ERROR 2023-11-19 10:11:56,615 basehttp 7056 7836"POST /app2/create_product/ HTTP/1.1" 500 74618
+INFO 2023-11-19 10:13:13,069 autoreload 7056 11392D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp2\views.py changed, reloading.
+INFO 2023-11-19 10:13:13,581 autoreload 12988 9308Watching for file changes with StatReloader
+INFO 2023-11-19 10:18:01,829 autoreload 12988 9308D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp2\forms.py changed, reloading.
+INFO 2023-11-19 10:18:02,329 autoreload 1624 5780Watching for file changes with StatReloader
+INFO 2023-11-19 10:18:47,076 autoreload 6100 7580Watching for file changes with StatReloader
+INFO 2023-11-19 10:20:12,670 autoreload 7984 13100Watching for file changes with StatReloader
+INFO 2023-11-19 10:20:18,060 basehttp 7984 4868"GET /app2/create_product/ HTTP/1.1" 200 1507
+INFO 2023-11-19 10:20:36,303 basehttp 7984 4868"POST /app2/create_product/ HTTP/1.1" 200 1543
+INFO 2023-11-19 10:30:48,375 autoreload 4984 5592Watching for file changes with StatReloader
+INFO 2023-11-19 10:30:49,441 views 4984 10792
+Index Page
+INFO 2023-11-19 10:30:49,455 basehttp 4984 10792"GET / HTTP/1.1" 200 1493
+INFO 2023-11-19 10:30:55,460 basehttp 4984 10792"GET /admin HTTP/1.1" 301 0
+INFO 2023-11-19 10:30:55,580 basehttp 4984 5724"GET /admin/ HTTP/1.1" 302 0
+INFO 2023-11-19 10:30:55,642 basehttp 4984 5724"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-11-19 10:30:55,812 basehttp 4984 5724"GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2023-11-19 10:30:55,812 basehttp 4984 7340"GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2023-11-19 10:30:55,817 basehttp 4984 6684"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2023-11-19 10:30:55,817 basehttp 4984 9172"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2023-11-19 10:30:55,817 basehttp 4984 4816"GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2023-11-19 10:30:55,916 basehttp 4984 2368"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2023-11-19 10:30:55,916 basehttp 4984 7340"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2023-11-19 10:31:00,489 basehttp 4984 7340"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4534
+INFO 2023-11-19 10:36:14,903 autoreload 8908 12252Watching for file changes with StatReloader
+INFO 2023-11-19 10:36:16,385 basehttp 8908 11936"GET /admin/ HTTP/1.1" 302 0
+INFO 2023-11-19 10:36:16,415 basehttp 8908 11936"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-11-19 10:36:20,198 basehttp 8908 11936"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-11-19 10:36:20,259 basehttp 8908 11936"GET /admin/ HTTP/1.1" 200 8286
+INFO 2023-11-19 10:36:20,322 basehttp 8908 11936"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2023-11-19 10:36:20,328 basehttp 8908 4392"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2023-11-19 10:36:20,329 basehttp 8908 11936"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2023-11-19 10:39:35,080 autoreload 8908 12252D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp2\models.py changed, reloading.
+INFO 2023-11-19 10:39:35,695 autoreload 6320 6364Watching for file changes with StatReloader
+INFO 2023-11-19 10:41:53,900 autoreload 6320 6364D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp2\admin.py changed, reloading.
+INFO 2023-11-19 10:41:54,408 autoreload 12080 5452Watching for file changes with StatReloader
+INFO 2023-11-19 10:42:09,688 autoreload 3640 13236Watching for file changes with StatReloader
+INFO 2023-11-19 10:42:19,494 autoreload 13264 12520Watching for file changes with StatReloader
+INFO 2023-11-19 10:42:23,321 basehttp 13264 10496"GET /admin/ HTTP/1.1" 200 8286
+INFO 2023-11-19 10:42:26,161 basehttp 13264 10496"GET /admin/myapp2/product/ HTTP/1.1" 200 29776
+INFO 2023-11-19 10:42:26,214 basehttp 13264 4708"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:42:26,329 basehttp 13264 8564"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2023-11-19 10:42:26,375 basehttp 13264 1492"GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2023-11-19 10:42:26,375 basehttp 13264 8564"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2023-11-19 10:42:26,376 basehttp 13264 4708"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2023-11-19 10:42:26,378 basehttp 13264 10496"GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2023-11-19 10:42:26,380 basehttp 13264 5324"GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2023-11-19 10:42:26,384 basehttp 13264 10496"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2023-11-19 10:42:26,386 basehttp 13264 1492"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2023-11-19 10:42:26,389 basehttp 13264 4708"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2023-11-19 10:42:26,396 basehttp 13264 10496"GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2023-11-19 10:42:26,409 basehttp 13264 5244"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2023-11-19 10:42:26,421 basehttp 13264 8564"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2023-11-19 10:42:26,438 basehttp 13264 8564"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2023-11-19 10:42:26,442 basehttp 13264 8564"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2023-11-19 10:43:14,580 autoreload 5320 11488Watching for file changes with StatReloader
+INFO 2023-11-19 10:43:15,915 basehttp 5320 5064"GET /admin/myapp2/product/ HTTP/1.1" 200 26875
+INFO 2023-11-19 10:43:15,947 basehttp 5320 5064"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:43:19,979 basehttp 5320 5064"GET /admin/myapp2/product/ HTTP/1.1" 200 26875
+INFO 2023-11-19 10:43:20,008 basehttp 5320 5064"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:43:55,705 autoreload 4204 9580Watching for file changes with StatReloader
+INFO 2023-11-19 10:43:59,773 basehttp 4204 908"GET /admin/myapp2/product/ HTTP/1.1" 200 27181
+INFO 2023-11-19 10:43:59,799 basehttp 4204 908"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:43:59,967 basehttp 4204 908"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2023-11-19 10:44:38,231 autoreload 11480 8640Watching for file changes with StatReloader
+INFO 2023-11-19 10:44:40,123 basehttp 11480 3268"GET /admin/myapp2/product/ HTTP/1.1" 200 27360
+INFO 2023-11-19 10:44:40,154 basehttp 11480 3268"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:46:08,074 autoreload 11480 8640D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp2\admin.py changed, reloading.
+INFO 2023-11-19 10:46:08,760 autoreload 5292 1608Watching for file changes with StatReloader
+INFO 2023-11-19 10:48:08,180 autoreload 5292 1608D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\myapp2\admin.py changed, reloading.
+INFO 2023-11-19 10:48:08,666 autoreload 11812 3660Watching for file changes with StatReloader
+INFO 2023-11-19 10:48:11,935 basehttp 11812 4452"GET /admin/myapp2/product/ HTTP/1.1" 200 27450
+INFO 2023-11-19 10:48:11,964 basehttp 11812 4452"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:49:44,777 autoreload 12880 11656Watching for file changes with StatReloader
+INFO 2023-11-19 10:49:47,980 views 12880 5972
+Index Page
+INFO 2023-11-19 10:49:47,994 basehttp 12880 5972"GET / HTTP/1.1" 200 1493
+INFO 2023-11-19 10:49:52,317 basehttp 12880 5972"GET /admin/myapp2/ HTTP/1.1" 200 6173
+INFO 2023-11-19 10:49:55,640 basehttp 12880 5972"GET /admin/myapp2/user/ HTTP/1.1" 200 10807
+INFO 2023-11-19 10:49:55,662 basehttp 12880 5972"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:50:05,235 basehttp 12880 5972"GET /admin/myapp2/ HTTP/1.1" 200 6173
+ERROR 2023-11-19 10:50:06,537 log 12880 5972Internal Server Error: /admin/myapp2/order/
+Traceback (most recent call last):
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\utils\dateparse.py", line 114, in parse_datetime
+    return datetime.datetime.fromisoformat(value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\contrib\admin\options.py", line 2065, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+                                                           ^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1595, in execute_sql
+    return list(result)
+           ^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 2093, in cursor_iter
+    for rows in iter((lambda: cursor.fetchmany(itersize)), sentinel):
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 2093, in <lambda>
+    for rows in iter((lambda: cursor.fetchmany(itersize)), sentinel):
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\utils.py", line 98, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 31, in <lambda>
+    return lambda s: conv_func(s.decode())
+                     ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\utils\dateparse.py", line 129, in parse_datetime
+    return datetime.datetime(**kw, tzinfo=tzinfo)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: day is out of range for month
+ERROR 2023-11-19 10:50:06,543 basehttp 12880 5972"GET /admin/myapp2/order/ HTTP/1.1" 500 147809
+INFO 2023-11-19 10:50:25,609 autoreload 6792 5736Watching for file changes with StatReloader
+ERROR 2023-11-19 10:50:26,363 log 6792 3424Internal Server Error: /admin/myapp2/order/
+Traceback (most recent call last):
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\utils\dateparse.py", line 114, in parse_datetime
+    return datetime.datetime.fromisoformat(value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\contrib\admin\options.py", line 2065, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+                                                           ^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1595, in execute_sql
+    return list(result)
+           ^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 2093, in cursor_iter
+    for rows in iter((lambda: cursor.fetchmany(itersize)), sentinel):
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 2093, in <lambda>
+    for rows in iter((lambda: cursor.fetchmany(itersize)), sentinel):
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\utils.py", line 98, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 31, in <lambda>
+    return lambda s: conv_func(s.decode())
+                     ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\x-Code\GeekBrains\Ôðåéìâîðê Django\Project\venv\Lib\site-packages\django\utils\dateparse.py", line 129, in parse_datetime
+    return datetime.datetime(**kw, tzinfo=tzinfo)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: day is out of range for month
+ERROR 2023-11-19 10:50:26,371 basehttp 6792 3424"GET /admin/myapp2/order/ HTTP/1.1" 500 147946
+INFO 2023-11-19 10:51:56,894 autoreload 10212 12496Watching for file changes with StatReloader
+INFO 2023-11-19 10:51:59,104 basehttp 10212 12240"GET /admin/myapp2/order/ HTTP/1.1" 200 17651
+INFO 2023-11-19 10:51:59,136 basehttp 10212 12240"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:52:51,022 basehttp 10212 12240"GET /admin/myapp2/order/ HTTP/1.1" 200 17651
+INFO 2023-11-19 10:52:51,056 basehttp 10212 12240"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:52:53,232 basehttp 10212 12240"GET /admin/myapp2/order/ HTTP/1.1" 200 17651
+INFO 2023-11-19 10:52:53,256 basehttp 10212 12240"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:53:02,767 autoreload 8924 6200Watching for file changes with StatReloader
+INFO 2023-11-19 10:53:04,384 basehttp 8924 3644"GET /admin/myapp2/order/ HTTP/1.1" 200 18947
+INFO 2023-11-19 10:53:04,405 basehttp 8924 3644"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:53:06,945 basehttp 8924 3644"GET /admin/myapp2/order/?date_ordered__gte=2023-11-01+00%3A00%3A00%2B00%3A00&date_ordered__lt=2023-12-01+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 10879
+INFO 2023-11-19 10:53:06,969 basehttp 8924 3644"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:53:08,254 basehttp 8924 3644"GET /admin/myapp2/order/?date_ordered__gte=2023-11-12+00%3A00%3A00%2B00%3A00&date_ordered__lt=2023-11-20+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 10879
+INFO 2023-11-19 10:53:08,290 basehttp 8924 3644"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:53:09,098 basehttp 8924 3644"GET /admin/myapp2/order/?date_ordered__gte=2023-01-01+00%3A00%3A00%2B00%3A00&date_ordered__lt=2024-01-01+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 20295
+INFO 2023-11-19 10:53:09,120 basehttp 8924 3644"GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-11-19 10:53:10,883 basehttp 8924 3644"GET /admin/myapp2/order/?date_ordered__gte=2023-11-01+00%3A00%3A00%2B00%3A00&date_ordered__lt=2023-12-01+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 10879
+INFO 2023-11-19 10:53:10,902 basehttp 8924 3644"GET /admin/jsi18n/ HTTP/1.1" 200 16066
