@@ -4,6 +4,7 @@ from django.shortcuts import get_object_or_404
 from django.shortcuts import render
 from django.utils import timezone
 
+from myapp2.forms import ProductForm
 from myapp2.models import Order, User
 
 
@@ -29,3 +30,14 @@ def get_orders_last_year(request, user_id):
     user = get_object_or_404(User, pk=user_id)
     orders = Order.objects.filter(customer=user, date_ordered__gt=(timezone.now() - datetime.timedelta(days=365)))
     return render(request, 'myapp2/order_list.html', {'orders': orders})
+
+
+def create_product(request):
+    if request.method == 'POST':
+        form = ProductForm(request.POST, request.FILES)
+        if form.is_valid():
+            form.save()
+            return render(request, 'myapp2/create_product.html', {'form': form})
+    else:
+        form = ProductForm()
+    return render(request, 'myapp2/create_product.html', {'form': form})
