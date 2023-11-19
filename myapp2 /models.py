@@ -15,8 +15,11 @@ class User(models.Model):
 class Product(models.Model):
     name = models.CharField(max_length=100)
     price = models.DecimalField(max_digits=8, decimal_places=2)
-    description = models.TextField()
+    description = models.TextField(blank=True, null=True)
     image = models.ImageField(upload_to='products/')
+
+    def __str__(self):
+        return self.name
 
 
 class Order(models.Model):
@@ -24,6 +27,9 @@ class Order(models.Model):
     products = models.ManyToManyField(Product)
     date_ordered = models.DateTimeField(auto_now_add=True)
     total_price = models.DecimalField(max_digits=8, decimal_places=2)
+
+    def __str__(self):
+        return f'Name: {self.customer}, email: {self.date_ordered}'
 
 
 class Author(models.Model):
