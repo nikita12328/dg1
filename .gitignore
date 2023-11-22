@@ -65,3 +65,10 @@ venv.bak/
 .idea/
 .idea/*
 .idea/*.xml
+
+
+/media/
+/static/
+*.sqlite3
+*.log
+*.pyc
